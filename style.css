@@ -1,0 +1,49 @@
+
+header{
+    font-family: 'Seaweed Script', cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+
+
+figure {
+    float: right;
+    width: 30%;
+    text-align: center; 
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin #ddd solid;
+    margin: 0.5em;
+    padding: 0.5em;
+    box-shadow: 3px 3px 5px #999;
+
+  }
+  
+  img.scaled {
+    width: 100%
+  }
+ 
+
+  
+  .content{
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 10px
+}
+
+
+   
+#two{
+    float: left;
+    
+}
+
+body{
+    background: #ccc;
+}
